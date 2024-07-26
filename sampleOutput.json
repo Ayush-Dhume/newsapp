@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 1006,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Anna Washenko",
+      "title": "Microsoft is adding AI-powered summaries to Bing search results",
+      "description": "The race to bring more AI features to search is escalating, with Microsoft moving forward with additional tools for Bing. Today, the company began previews for Bing generative search, where the top result for a user's query will be an original response compil…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0c6a2c9b-d1d4-498e-827d-c852e81ef27c",
+      "urlToImage": null,
+      "publishedAt": "2024-07-24T20:31:00Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Mat Smith",
+      "title": "The Morning After: Netflix’s new gaming boss is a former Epic Games exec",
+      "description": "Netflix has hired Alain Tascan as its new president of games. Before joining Netflix, Tascan was executive vice president for Epic Games and oversaw first-party development for some of the company’s (and gaming’s) most successful titles, like Fortnite, Rocket…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_43e6b522-dc3e-4bfa-890f-198752f474c8",
+      "urlToImage": null,
+      "publishedAt": "2024-07-24T11:15:12Z",
+      "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Burgess",
+      "title": "A Hacker ‘Ghost’ Network Is Quietly Spreading Malware on GitHub",
+      "description": "Cybersecurity researchers have spotted a 3,000-account network on GitHub that is manipulating the platform and spreading ransomware and info stealers.",
+      "url": "https://www.wired.com/story/github-malware-spreading-network-stargazer-goblin/",
+      "urlToImage": "",
+      "publishedAt": "2024-07-24T11:00:00Z",
+      "content": "A secretive network of around 3,000 ghost accounts on GitHub has quietly been manipulating pages on the code-hosting website to promote malware and phishing links, according to new research seen by W… [+3336 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Bing’s AI redesign shoves the usual list of search results to the side",
+      "description": "Microsoft’s Bing has offered an early look at a new search results page that prominently features AI-generated information while shoving actual search results to the side.",
+      "url": "https://www.theverge.com/2024/7/24/24205404/bing-ai-search-redesign",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/I0EJnFSS2vd0Nwjc6A-jgkQRbYI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24435316/STK150_Bing_AI_Chatbot_02.jpg",
+      "publishedAt": "2024-07-24T20:58:31Z",
+      "content": "Bings AI redesign shoves the usual list of search results to the side\r\nBings AI redesign shoves the usual list of search results to the side\r\n / Microsoft Bing is trying a new layout that fills your … [+2527 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gordon Jackson",
+      "title": "World of Warcraft‘s Developers Just Made a Huge Leap Forward For Video Game Unionization",
+      "description": "Blizzard employees have formed a massively multiplayer union in the name of making World of Warcraft safer and more equitable to work on.",
+      "url": "https://gizmodo.com/blizzard-unionization-activision-world-of-warcraft-microsoft-2000478656",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/wow-11-keyart-en-e1721854337629.jpg",
+      "publishedAt": "2024-07-24T21:00:23Z",
+      "content": "According to a new report from Game Developer, The Communications Workers of America (CWA) has just confirmed over 500 employees at Blizzard Entertainment have formed a “wall-to-wall” union calling i… [+2781 chars]"
+    }
+  ]
+}
